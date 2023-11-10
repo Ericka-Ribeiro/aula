@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    color: rgb(203, 18, 141);
+    background: rgb(255, 247, 0);
+    text-align: center;
+}
+body{
+    background-color: rgb(127, 227, 255);
+}
